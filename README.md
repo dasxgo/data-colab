@@ -1,2 +1,2 @@
 # data_science
-Notebooks of data science with pythion
+Notebooks of data science with python
