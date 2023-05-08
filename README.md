@@ -4,16 +4,16 @@ Analisis de datos y machine learning con python.
 
 **Tabla de contenidos**
 
-Instalación
-Uso
-Contribuir
-Licencia
-
+- Instalación
+- Uso
+- Contribuir
+- Licencia
 
 Características
-Característica 1
-Característica 2
-Característica 3
+Data Analisys
+Machine Learning
+Clustering
+Scikit learn
 
 Instalación
 Clona el repositorio: git clone https://github.com/tuusuario/turepositorio.git
