@@ -16,7 +16,7 @@ Clustering
 Scikit learn
 
 Instalación
-Clona el repositorio: git clone https://github.com/tuusuario/turepositorio.git
+Clona el repositorio: git clone git@github.com:dasxgo/data_projects.git
 Instala las dependencias: npm install
 Uso
 Ejecuta la aplicación: npm start
