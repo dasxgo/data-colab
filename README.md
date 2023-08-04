@@ -2,30 +2,30 @@
 
 Analisis de datos y machine learning con python. 
 
-# **Tabla de contenidos**
+## **Tabla de contenidos**
 
 - Instalación
 - Uso
 - Contribuir
 - Licencia
 
-# **Características**
+## **Características**
 
 - Data Analisys
 - Machine Learning
 - Clustering
 - Scikit learn
 
-# **Instalación**
+## **Instalación**
 
 - Clona el repositorio: git clone git@github.com:dasxgo/data_projects.git
 - Instala las dependencias: npm install
 
-# **Uso**
+## **Uso**
 Ejecuta la aplicación: npm start
 Visita http://localhost:3000 en tu navegador.
 
-# **Contribuir**
+## **Contribuir**
 
 - Haz un fork del repositorio
 - Crea una rama para tu contribución: git checkout -b mi-rama
@@ -34,11 +34,11 @@ Visita http://localhost:3000 en tu navegador.
 - Crea un Pull Request
 
 
-# **Licencia** 
+## **Licencia** 
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-# **Atribuciones**
+## **Atribuciones**
 Agradece a cualquier proyecto de código abierto o tutorial que hayas utilizado en tu proyecto
 
 
