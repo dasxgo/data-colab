@@ -1,6 +1,6 @@
-# **Notebooks Data Science**
+# **Notebooks**
 
-Analisis de datos y machine learning con python. 
+Data anlysis with python 
 
 ## **Tabla de contenidos**
 
@@ -11,10 +11,7 @@ Analisis de datos y machine learning con python.
 
 ## **Características**
 
-- Data Analisys
-- Machine Learning
-- Clustering
-- Scikit learn
+- EDA
 
 ## **Instalación**
 
