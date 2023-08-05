@@ -1,4 +1,4 @@
-# **EDA Notebooks**
+# **Notebooks**
 
 Data anlysis with python 
 
