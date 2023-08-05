@@ -1,6 +1,6 @@
 # **Notebooks**
 
-Data anlysis with python 
+Data anlysis and machine learning with python 
 
 ## **Tabla de contenidos**
 
