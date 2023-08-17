@@ -17,7 +17,7 @@ Data analysis and machine learning with python
 
 ## **Install**
 
-- Clone of repository: git clone git@github.com:dasxgo/data_projects.git
+- Clone of repository: git clone git@github.com:dasxgo/data-colab.git
 - Insttall library: npm install
 
 
