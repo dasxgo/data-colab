@@ -1,6 +1,6 @@
 # **Data Colab**
 
-Data analysis and machine learning with python 
+Data analysis and machine learning notebooks
 
 ## **Contents**
 
