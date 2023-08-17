@@ -11,7 +11,7 @@ Data analysis and machine learning with python
 - Breast cancer
 - World population
 
-## **Características**
+## **Features**
 
 - EDA and machine learning
 
