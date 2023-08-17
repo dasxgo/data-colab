@@ -1,41 +1,30 @@
-# **Notebooks**
+# **Data Colab**
 
-Data anlysis and machine learning with python 
+Data analysis and machine learning with python 
 
-## **Tabla de contenidos**
+## **Contents**
 
-- Instalación
-- Uso
-- Contribuir
-- Licencia
+- Bank credit score prediction
+- Salary prediction
+- Usa real state prediction
+- Census Income
+- Breast cancer
+- World population
 
 ## **Características**
 
-- EDA
+- EDA and machine learning
 
-## **Instalación**
+## **Install**
 
-- Clona el repositorio: git clone git@github.com:dasxgo/data_projects.git
-- Instala las dependencias: npm install
-
-## **Uso**
-Ejecuta la aplicación: npm start
-Visita http://localhost:3000 en tu navegador.
-
-## **Contribuir**
-
-- Haz un fork del repositorio
-- Crea una rama para tu contribución: git checkout -b mi-rama
-- Haz tus cambios y haz commit: git commit -am 'Descripción de mis cambios'
-- Haz push a la rama: git push origin mi-rama
-- Crea un Pull Request
+- Clone of repository: git clone git@github.com:dasxgo/data_projects.git
+- Insttall library: npm install
 
 
-## **Licencia** 
+## **License** 
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+MIT License.
 
-## **Atribuciones**
-Agradece a cualquier proyecto de código abierto o tutorial que hayas utilizado en tu proyecto
+
 
 
