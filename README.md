@@ -18,7 +18,7 @@ Data analysis and machine learning notebooks
 ## **Install**
 
 - Clone of repository: git clone git@github.com:dasxgo/data-colab.git
-- Insttall library: npm install
+- Install library: requirements.txt
 
 
 ## **License** 
