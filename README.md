@@ -5,8 +5,8 @@ Data analysis and machine learning notebooks
 - Bank credit score prediction
 - Salary prediction
 - Usa real state prediction
-- Census Income
 - Breast cancer
+- Census Income
 - World population
 
 ## **Features**
