@@ -17,6 +17,7 @@ Data analysis and machine learning notebooks
 - Numpy
 - Mattplotlib
 - Seaborn
+- Scikit learn
 
 ## **Install**
 - Clone of repository: git clone git@github.com:dasxgo/colab-data.git
