@@ -20,7 +20,7 @@ Data analysis and machine learning notebooks
 - Scikit learn
 
 ## **Install**
-- Clone of repository: git clone git@github.com:dasxgo/colab-data.git
+- clone of repository: git clone git@github.com:dasxgo/colab-data.git
 - pip install -r requirements.txt
   
 ## **License** 
