@@ -21,8 +21,8 @@ Data analysis and machine learning notebooks
 
 ## **Install**
 - Clone of repository: git clone git@github.com:dasxgo/colab-data.git
-- Install library: requirements.txt
-
+- pip install -r requirements.txt
+  
 ## **License** 
 MIT
 
