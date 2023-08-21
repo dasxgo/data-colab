@@ -1,4 +1,4 @@
-# **Colab Data**
+# **Data Colab**
 Data analysis and machine learning notebooks
 
 ## **Contents**
