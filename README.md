@@ -1,7 +1,7 @@
-# **Data Colab**
+# Overview
 Data analysis and machine learning notebooks
 
-## **Contents**
+## Table of contents
 - Bank credit score prediction
 - Salary prediction
 - Usa real state prediction
@@ -9,21 +9,26 @@ Data analysis and machine learning notebooks
 - Census Income
 - World population
 
-## **Features**
-- EDA and machine learning
+## Local Setup
 
-## **Tools**
-- Pandas
-- Numpy
-- Mattplotlib
-- Seaborn
-- Scikit learn
+### Install
 
-## **Install**
-- clone of repository: git clone git@github.com:dasxgo/data-colab.git
-- pip install -r requirements.txt
-  
-## **License** 
+The follow this project, please install the followingg locally:
+- Python
+- Jupyter
+- Pytthon packages
+  - Pandas
+  - Numpy
+  - Mattplotlib
+  - Seaborn
+  - Scikit learn
+
+### Clone of repository
+
+`git@github.com:dasxgo/data-colab.git`
+`pip install -r requeriments.txt`
+
+## License 
 MIT
 
 
