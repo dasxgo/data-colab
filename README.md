@@ -1,7 +1,7 @@
 # Overview
 Data analysis and machine learning notebooks
 
-## Table of contents
+## Table of Contents
 - Bank credit score prediction
 - Salary prediction
 - Usa real state prediction
@@ -23,7 +23,7 @@ The follow this project, please install the followingg locally:
   - Seaborn
   - Scikit learn
 
-### Clone of repository
+### Clone of Repository
 
 `git@github.com:dasxgo/data-colab.git`
 `pip install -r requeriments.txt`
