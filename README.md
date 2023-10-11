@@ -16,7 +16,7 @@ Data analysis and machine learning notebooks
 The follow this project, please install the followingg locally:
 - Python
 - Jupyter
-- Pytthon packages
+- Python packages
   - Pandas
   - Numpy
   - Mattplotlib
