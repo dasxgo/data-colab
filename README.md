@@ -1,5 +1,5 @@
 # Overview
-Data analysis and machine learning notebooks
+This repository contains notebooks of Data analysis and machine learning
 
 ## Table of Contents
 - Bank credit score prediction
