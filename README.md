@@ -20,7 +20,7 @@ The follow this project, please install the followingg locally:
 - Python packages
   - Pandas
   - Numpy
-  - Mattplotlib
+  - Matplotlib
   - Seaborn
   - Scikit learn
 
