@@ -1,7 +1,7 @@
 # Overview
 This repository contains notebooks of Data analysis and machine learning
 
-## Table of Contents
+## Index
 - phone number
 - Bank credit score prediction
 - Salary prediction
